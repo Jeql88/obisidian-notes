@@ -1,4 +1,4 @@
-# 🤝 AI Interoperability
+#  AI Interoperability
 
 > **Interoperability** in generative AI refers to the ability of AI models and systems to work together seamlessly, regardless of their underlying platforms.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔌 API-Based Integration Patterns
+## API-Based Integration Patterns
 
 |Pattern|Best For|Key Trait|
 |---|---|---|
@@ -22,7 +22,7 @@
 
 ---
 
-## 📐 Standardizing Input/Output Formats
+## Standardizing Input/Output Formats
 
 Predictable inputs and outputs are essential for reliable interoperability.
 
@@ -33,7 +33,7 @@ Predictable inputs and outputs are essential for reliable interoperability.
 
 ---
 
-## 🔐 Authentication & Security
+## Authentication & Security
 
 |Method|Notes|
 |---|---|
@@ -45,7 +45,7 @@ Predictable inputs and outputs are essential for reliable interoperability.
 
 ---
 
-## 🔀 Multi-Model Backends (e.g. Mistral + OpenAI in C#)
+## Multi-Model Backends (e.g. Mistral + OpenAI in C#)
 
 Use a **common interface** so the backend accepts and returns the same structure regardless of which model is called underneath.
 
@@ -63,7 +63,7 @@ This abstraction lets you swap or combine models without changing upstream consu
 
 ---
 
-## 🗂 API Versioning Strategies
+## API Versioning Strategies
 
 - Use **URI versioning** (`/v1/`, `/v2/`) for clear, explicit version management
 - Maintain older versions as long as clients depend on them
@@ -76,7 +76,7 @@ GET /api/v2/complete   → new model/schema
 
 ---
 
-## ⚖️ Governance, Ethics & Best Practices
+## Governance, Ethics & Best Practices
 
 |Area|Practice|
 |---|---|
@@ -93,8 +93,6 @@ Monitor → Evaluate → Improve → Deploy → Monitor (loop)
 
 ---
 
-## 🔗 Related Topics
+## Related Notes
 
-- API Design Patterns
-- AI Security
-- Model Governance
+[[Building Applications with OpenAI]]
