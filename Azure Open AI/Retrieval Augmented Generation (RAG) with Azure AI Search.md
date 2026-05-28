@@ -358,6 +358,6 @@ Only add this if hybrid search quality alone is insufficient — it adds latency
 
 ## Related Notes
 
-[[AI Plan for JumpStart]]
+[[AI Plan for JumpStart 1]]
 [[Building Applications with OpenAI]]
 [[Ensuring Interoperability in Generative AI Systems]]

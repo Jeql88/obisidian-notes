@@ -195,4 +195,4 @@ Your app then calls `http://localhost:5000` instead of the Azure endpoint — sa
 
 [[Retrieval Augmented Generation (RAG) with Azure AI Search]]
 [[Building Applications with OpenAI]]
-[[AI Plan for JumpStart]]
+[[AI Plan for JumpStart 1]]
