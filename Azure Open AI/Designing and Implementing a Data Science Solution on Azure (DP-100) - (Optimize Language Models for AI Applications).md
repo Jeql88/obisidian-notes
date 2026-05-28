@@ -72,12 +72,12 @@ The `Passed Messages Included` parameter controls how many prior turns of conver
 
 ### Parameters
 
-|Parameter|What it controls|
-|---|---|
-|**Temperature**|Randomness of output. Higher (e.g. 0.9) = more creative and unpredictable. Lower (e.g. 0.2) = more focused, consistent, and deterministic.|
-|**Top P**|Alternative to temperature. Limits the model to the top P% of probable next tokens. Do not use both Temperature and Top P at the same time — pick one.|
-|**Max Response (max_tokens)**|Hard cap on how many tokens the model can generate in a single response. Prevents runaway long outputs and controls cost.|
-|**Stop Sequence**|One or more strings that tell the model to stop generating when encountered. Useful for structured outputs where you know what the response ends with.|
+| Parameter                     | What it controls                                                                                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Temperature**               | Randomness of output. Higher (e.g. 0.9) = more creative and unpredictable. Lower (e.g. 0.2) = more focused, consistent, and deterministic.             |
+| **Top P**                     | Alternative to temperature. Limits the model to the top P% of probable next tokens. Do not use both Temperature and Top P at the same time — pick one. |
+| **Max Response (max_tokens)** | Hard cap on how many tokens the model can generate in a single response. Prevents runaway long outputs and controls cost.                              |
+| **Stop Sequence**             | One or more strings that tell the model to stop generating when encountered. Useful for structured outputs where you know what the response ends with. |
 
 **Without Top P:** the model considers all possible next tokens weighted by probability. This is the default behavior and is fine for most use cases.
 
