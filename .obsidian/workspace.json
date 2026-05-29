@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Open AI/Retrieval Augmented Generation (RAG) with Azure AI Search.md",
+                "file": "Azure AI Engineer Associate (AI-102) Generative AI Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retrieval Augmented Generation (RAG) with Azure AI Search"
+              "title": "Azure AI Engineer Associate (AI-102) Generative AI Solutions"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Open AI/Real-time Document Translation with Azure AI Translator.md",
+                "file": "Azure Open AI/Azure AI Engineer Associate (AI-102) Generative AI Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real-time Document Translation with Azure AI Translator"
+              "title": "Azure AI Engineer Associate (AI-102) Generative AI Solutions"
             }
           }
         ],
@@ -242,12 +242,13 @@
   },
   "active": "a9891632ef1c4081",
   "lastOpenFiles": [
-    "Azure Open AI/Designing and Implementing a Data Science Solution on Azure (DP-100) - (Optimize Language Models for AI Applications).md",
-    "Azure Open AI/Real-time Document Translation with Azure AI Translator.md",
-    "Azure Open AI/Retrieval Augmented Generation (RAG) with Azure AI Search.md",
-    "Azure Open AI/Information Extraction with Azure AI Document Intelligence.md",
-    "Azure Open AI/Building Applications with OpenAI.md",
     "Azure Open AI/AI Plan for JumpStart 2.md",
+    "Azure Open AI/Azure AI Engineer Associate (AI-102) Generative AI Solutions.md",
+    "Azure Open AI/Building Applications with OpenAI.md",
+    "Azure Open AI/Retrieval Augmented Generation (RAG) with Azure AI Search.md",
+    "Azure Open AI/Real-time Document Translation with Azure AI Translator.md",
+    "Azure Open AI/Designing and Implementing a Data Science Solution on Azure (DP-100) - (Optimize Language Models for AI Applications).md",
+    "Azure Open AI/Information Extraction with Azure AI Document Intelligence.md",
     "Azure Open AI/AI Plan for JumpStart 1.md",
     "Azure Open AI/Ensuring Interoperability in Generative AI Systems.md",
     "Philnits Review/October 2025 Exam Review.md",

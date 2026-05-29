@@ -10,11 +10,11 @@ Embeddings are used only for skill name resolution — not for scoring talents. 
 
 ## Azure Setup
 
-|Resource|What to do|Cost|
-|---|---|---|
-|Azure OpenAI (existing, US East)|Deploy `text-embedding-3-small` for skill name embeddings|~$1–5/month|
-|Azure OpenAI (existing, US East)|Deploy a chat model (e.g. `gpt-4o-mini`) for skill extraction|~$1–3/month|
-|Key Vault (existing or new)|Store endpoints, API keys|~$0|
+| Resource                         | What to do                                                    | Cost        |
+| -------------------------------- | ------------------------------------------------------------- | ----------- |
+| Azure OpenAI (existing, US East) | Deploy `text-embedding-3-small` for skill name embeddings     | ~$1–5/month |
+| Azure OpenAI (existing, US East) | Deploy a chat model (e.g. `gpt-4o-mini`) for skill extraction | ~$1–3/month |
+| Key Vault (existing or new)      | Store endpoints, API keys                                     | ~$0         |
 
 **Total estimated cost: ~$2–8/month.**
 
